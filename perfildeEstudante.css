@@ -1,0 +1,27 @@
+.perfil {
+    background: whitesmoke;
+    width: 300px;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.foto {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    margin-bottom: 10px;
+}
+
+.nome {
+    font-size: 30px;
+    color: blue;
+    margin: 10px;
+}
+
+.bio {
+    font-size: 16px;
+    color: grey;
+    font-weight: 300;
+}
